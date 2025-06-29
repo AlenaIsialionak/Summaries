@@ -1,0 +1,20 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.egg-info/
+.mypy_cache/
+
+# Virtual Environment
+venv/
+.env
+
+# Logs
+*.log
+
+# IDE
+*.idea/
+.idea*
+
+# Other
+*.db
